@@ -1,2 +1,2 @@
 # Envio_sms
- Sistem de envio de sms
+ Automação de envio de mensagens instantânea utilizando a biblioteca auxiliar Python da Twilio
